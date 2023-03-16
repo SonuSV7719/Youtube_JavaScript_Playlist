@@ -1,0 +1,154 @@
+Syntax
+----------------
+Comments
+---------------------
+
+Variables
+ - Let
+ - Const
+
+----------------------------
+Operators
+ - Arithmetic
+ - Assignment
+ - Bitwise
+ - Precedence
+
+
+-------------------------------
+Data Types
+Functions
+
+
+------------------------------
+
+Objects
+
+-------------------------------
+
+Events
+
+--------------------------------- 
+
+Strings
+ - String Methods
+ - String Search
+ - String Templates
+
+-----------------------------------
+
+Numbers
+ - BigInt
+ - Number Methods
+ - Number Properties
+
+-----------------------------------
+
+Arrays
+ - Array Methods
+ - Array Sort
+ - Array Iteration
+
+------------------------------------
+
+Dates
+ - Date Formats
+ -  Date Get Methods
+ - Date Set Methods
+
+-------------------------------------
+
+Math
+Random
+------------------------------------
+
+Conditional Statements 
+ - If Else
+ - Switch - case
+
+-------------------------------------
+
+Loops
+ - Loop For
+ - Loop For In
+ - Loop For Of
+ - Loop While
+ - Break
+ - continue
+
+-----------------------------------
+
+Iterables
+Sets
+Maps
+Typeof
+Type Conversion
+
+-------------------------------------
+
+RegExp
+
+Errors
+
+Scope
+----------------------------------------
+Hoisting
+
+Strict Mode
+------------------------------------
+
+this Keyword
+
+Arrow Function
+------------------------------------------
+Modules
+
+JSON
+
+
+--------------------------------------------
+
+advanced javascript
+------------------
+
+Objects
+ - Object Definitions
+ - Object Properties
+ - Object Methods
+ - How to display object
+ - Object Accessors
+ - Object Constructors
+ - Object Prototypes
+ - Object Iterables
+ - Object Sets
+ - Object Maps
+
+------------------------------------------------
+
+OOPs 
+ - classes
+ - inheritance 
+ - static methods
+
+----------------------------------------------
+
+Callbacks functions
+Asynchronous
+Promises
+Async/Await
+
+-----------------------------------------------
+
+DOM Manupulation
+
+-----------------------------------------------
+
+How to deal with api 
+----------------------------------------------
+
+AJAX
+
+-----------------------------------------------
+
+
+
