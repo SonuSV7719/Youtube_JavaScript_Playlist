@@ -35,3 +35,5 @@ console.log("Const num: " + constnum);
 
 constnum = 6;
 console.log("Const num after change", constnum);
+
+

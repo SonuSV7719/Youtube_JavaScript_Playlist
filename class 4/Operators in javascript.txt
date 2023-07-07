@@ -1,0 +1,65 @@
+----------------------------
+Operators
+--------------
+Types: 
+
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. String Operators
+5. Logical Operators
+6. Bitwise Operators
+7. Ternary Operators
+8. Type Operators
+
+**********************************************************************************************
+
+ - Arithmetic: 
+
+Operator	Description
++	        Addition
+-	        Subtraction
+*	        Multiplication
+**	        Exponentiation
+/	        Division
+%	        Modulus (Remainder)
+++	        Increment
+--	        Decrement
+
+====================================================================
+ - Assignment:
+
+Operator	Example
+=	        x = y	
++=	        x += y	
+-=	        x -= y	
+*=	        x *= y	
+/=	        x /= y	
+%=	        x %= y	
+**=	        x **= y
+
+=======================================================================
+Logical Operators:
+
+&&	and
+||	or
+!	not
+
+============================================================================
+Type Operators:
+
+typeof	
+===========================================================
+
+ - Bitwise:
+
+Operator	Description	     Example	Same as	         Result	      Decimal
+&	           AND	              5 & 1    0101 & 0001	  0001	          1
+|	           OR	              5 | 1    0101 | 0001	  0101	          5
+~	           NOT	              ~ 5      ~0101	          1010	         10
+^	           XOR	              5 ^ 1    0101 ^ 0001	  0100	         4
+<<	           left shift	      5 << 1   0101 << 1	  1010	        10
+>>	          right shift	      5 >> 1	0101 >> 1	  0010	         2
+
+===========================================================================================
+
